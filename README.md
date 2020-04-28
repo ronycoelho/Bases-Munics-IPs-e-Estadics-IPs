@@ -10,3 +10,7 @@
 
 - A base reúne todas as informações sobre as instituições participativas (IPs) catalogadas pelas Pesquisas de Informações Básicas Estaduais do IBGE (Estadics) em todas as suas edições (básicas e suplementares)
 
+Para saber mais, consulte:
+
+Coelho, Rony. Bancos de dados Munics-IPs e Estadics-IPs: para uma visão das Instituições Participativas no Brasil por meio das pesquisas do IBGE (no prelo), 2020.
+
