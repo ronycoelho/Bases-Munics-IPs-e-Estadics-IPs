@@ -6,9 +6,13 @@
 
 - A base reúne todas as informações sobre as instituições participativas (IPs) catalogadas pelas Pesquisas de Informações Básicas Municipais do IBGE (Munics) em todas as suas edições (básicas e suplementares)
 
+Pode ser acessada neste Github pela pasta acima ou [clicando aqui!](https://github.com/ronycoelho/Bases-Munics-IPs-e-Estadics-IPs/tree/master/munics_ips)
+
 #### Estadics-IPs
 
 - A base reúne todas as informações sobre as instituições participativas (IPs) catalogadas pelas Pesquisas de Informações Básicas Estaduais do IBGE (Estadics) em todas as suas edições (básicas e suplementares)
+
+Pode ser acessada neste Github pela pasta acima ou [clicando aqui!](https://github.com/ronycoelho/Bases-Munics-IPs-e-Estadics-IPs/tree/master/estadics_ips)
 
 Para saber mais, consulte:
 
